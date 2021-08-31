@@ -1,8 +1,8 @@
-### Hi there, I'm Chathuranga Priyadarshana 👋
+## Hi there, I'm Chathuranga Priyadarshana 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chathurangap688?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=chathurangap688)
 
-## I am a developer, learner, and technology enthusiast !!
+### I am a developer, learner, and technology enthusiast !!
 
 - 🌱 I’m curious to learn everything!
 - 👯 I’m looking to collaborate with other content creators
